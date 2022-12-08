@@ -1,0 +1,19 @@
+.Button-Main{
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-left: 5px;
+    border: none;
+    font-size: 1.1em;
+}
+
+.Button-badge{
+    background-color: red;
+    padding: 5px;
+    font-size: 0.5em;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    position: absolute !important;
+    top: 9px !important;
+}

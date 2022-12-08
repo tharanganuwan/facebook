@@ -1,0 +1,12 @@
+.SerchBox-main{
+    width: 280px;
+    height: 40px;
+    margin: 5px;
+    background: url(./search.png) no-repeat scroll 7px 10px;
+    background-color: rgb(243, 243, 243);
+    background-size: 20px 20px;
+    border: 1px solid rgb(243, 243, 243);
+    border-radius: 20px;
+    padding-left: 35px;
+    
+}
